@@ -31,7 +31,3 @@ Urban areas tend to experience higher temperatures than their rural surroundings
 - OpenCV
 - Folium / Plotly for map visualizations
 
----
-
-## 📂 Project Structure
-
